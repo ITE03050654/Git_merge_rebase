@@ -2,7 +2,7 @@
 git merge 主要可以分成三種方式<br>
 這邊假設有一條主支master和一條分支new<br>
 1.正常的合併<br>
-   git checkout master <br>
+nbsp;git checkout master <br>
    git merge new <br>
 2.不快轉的合併<br>
    git checkout master<br>
